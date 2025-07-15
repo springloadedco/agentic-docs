@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Springloaded\AgenticDocs\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AgenticDocsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'agentic-docs';
 
     public $description = 'My command';
 
